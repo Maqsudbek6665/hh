@@ -1,3 +1,8 @@
+import Productimage1 from "../../src/images/productImage/1.jpg";
+import Productimage2 from "../../src/images/productImage/2.jpg";
+import Productimage3 from "../../src/images/productImage/3.jpg";
+import Productimage4 from "../../src/images/productImage/4.jpg";
+import Productimage5 from "../../src/images/productImage/5.jpg";
 export const NavbarItem = [
   {
     id: 1,
@@ -18,9 +23,10 @@ export const NavbarItem = [
 const productitem = [
   {
     id: 1,
+
     ProductName: "shoes",
-    productDetails: "High Quality Brown Slippers for Emirates Airlines",
-    productSeries: "ab1122",
+    ProductDetails: "High Quality Brown Slippers for Emirates Airlines",
+    ProductSeries: "ab1122",
     ProductBrand: "Dambog",
     ProductDefinition: `Hides behind your TV: The all-new design plugs right into your TV with a simple setup
         Super-fast startup: Start streaming channels like Disney plus, Prime Video, HBO Max, Apple TV plus, Netflix, Sling, and Hulu in a snap—just turn on your TV
@@ -34,9 +40,9 @@ const productitem = [
   {
     id: 2,
     ProductName: "white shoes",
-    productDetails: "High Quality Brown Slippers for Emirates UzbekAirlines",
-    productSeries: "ab1122",
-    productWeight: 1.45,
+    ProductDetails: "High Quality Brown Slippers for Emirates UzbekAirlines",
+    ProductSeries: "ab1122",
+    ProductWeight: 1.45,
     ProductBrand: "Iskandar",
     ProductDefinition: `Hides behind your TV: The all-new design plugs right into your TV with a simple setup
         Super-fast startup: Start streaming channels like Disney plus, Prime Video, HBO Max, Apple TV plus, Netflix, Sling, and Hulu in a snap—just turn on your TV
@@ -50,9 +56,9 @@ const productitem = [
   {
     id: 3,
     ProductName: "Balack shoes",
-    productDetails: "High Quality Brown Slippers for Emirates dmas",
-    productSeries: "ab1122",
-    productWeight: 1.45,
+    ProductDetails: "High Quality Brown Slippers for Emirates dmas",
+    ProductSeries: "ab1122",
+    ProductWeight: 1.45,
     ProductBrand: "Kalosh",
     ProductDefinition: `Hides behind your TV: The all-new design plugs right into your TV with a simple setup
         Super-fast startup: Start streaming channels like Disney plus, Prime Video, HBO Max, Apple TV plus, Netflix, Sling, and Hulu in a snap—just turn on your TV
@@ -66,9 +72,9 @@ const productitem = [
   {
     id: 4,
     ProductName: "Balack trousers",
-    productDetails: "High Quality Brown Slippers for Emirates dmas",
-    productSeries: "ab112223",
-    productWeight: 1.45,
+    ProductDetails: "High Quality Brown Slippers for Emirates dmas",
+    ProductSeries: "ab112223",
+    ProductWeight: 1.45,
     ProductBrand: "Idial",
     ProductDefinition: `Hides behind your TV: The all-new design plugs right into your TV with a simple setup
         Super-fast startup: Start streaming channels like Disney plus, Prime Video, HBO Max, Apple TV plus, Netflix, Sling, and Hulu in a snap—just turn on your TV
@@ -82,9 +88,9 @@ const productitem = [
   {
     id: 5,
     ProductName: "Easy",
-    productDetails: "High Quality Brown Slippers for Emirates Nexia",
-    productSeries: "ab11222312",
-    productWeight: 2.8,
+    ProductDetails: "High Quality Brown Slippers for Emirates Nexia",
+    ProductSeries: "ab11222312",
+    ProductWeight: 2.8,
     ProductBrand: "Idial",
     ProductDefinition: `Hides behind your TV: The all-new design plugs right into your TV with a simple setup
         Super-fast startup: Start streaming channels like Disney plus, Prime Video, HBO Max, Apple TV plus, Netflix, Sling, and Hulu in a snap—just turn on your TV
